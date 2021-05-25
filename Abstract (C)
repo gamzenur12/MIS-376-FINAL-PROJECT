@@ -1,0 +1,13 @@
+ABSTRACT
+
+Day by day I did my research for this topic, reviewed the data and prepared myself to prepare a report on this subject. 
+At the moment, the unemployment issue related to the covid problem is more prominent and I have tried to present the resources I find without going beyond the unemployment issue.
+I started with COVID-19 data consisting of states, dates, number of cases, number of deaths, and state codes. 
+I removed the state codes column because I considered it foreign information. I uploaded the data to GitHub. 
+Over time, I examined and showed the number of cases and deaths by state. 
+I wanted to investigate this data further because I had a lot of resources on this topic, so I created a calculated column showing the mortality rate by state (deaths divided by cases). 
+I used several charts to size the cases by case count and color them by death rate. 
+I wanted to see if this was related to the number of unemployment claims by the state. 
+I downloaded unemployment data from the Department of Health and it seemed that jobless claims were actually higher in states that had more cases. 
+I researched the population demographics of some states, their response to the pandemic, and the major industries that make up their economies. 
+Then I drew my conclusions from the collected information. 
